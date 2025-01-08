@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { TestServiceService } from '../test-service.service';
 import { CommonModule } from '@angular/common';
-
+import { FormsModule } from '@angular/forms';
 import { ActivatedRoute } from '@angular/router';
 
 @Component({
